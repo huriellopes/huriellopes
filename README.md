@@ -1,4 +1,9 @@
-### 💻 Resumo
+# Huriel Lopes
+
+[![Linkedin Badge](https://img.shields.io/badge/-Huriel%20Lopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/huriellopes/)](https://www.linkedin.com/in/huriellopes/) 
+[![Gmail Badge](https://img.shields.io/badge/-huriellopes1996@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:huriellopes1996@gmail.com)](mailto:huriellopes1996@gmail.com)
+
+#### 💻 Resumo
 
 > Me chamo Huriel C Lopes, possuo aproximadamente 4 anos de experiência na área de desenvolvimento com a linguagem PHP usando o Laravel Framework e Joomla CMS atualmente, entuasiasta no mundo do javascript com as tecnologias Node.Js, React.Js e React Native!
 
