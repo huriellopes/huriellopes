@@ -12,7 +12,7 @@
 **Empresa:** MAZZATECH SERVIÇOS E CONSULTORIA
 EM INFORMÁTICA - São Paulo/SP<br>
 **Período:** Agosto/2020 - Atualmente <br>
-**Cargo:** Analista de Desenvolvimento PHP Pleno
+**Cargo:** Analista de Desenvolvimento PHP Pleno <br>
 **Descrição:** Terceirizado na ValidHub de Brasília/DF atuando com desenvolvimento de novos sistemas e manutenção de sistemas já existentes no mercado com Laravel Framework.
 
 ### Tecnologias e Linguagens
