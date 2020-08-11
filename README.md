@@ -9,24 +9,21 @@
 
 #### 👔 Experiência Profissional
 
-**Empresa:** Mazzatech - ValidHub<br>
+**Empresa:** MAZZATECH SERVIÇOS E CONSULTORIA
+EM INFORMÁTICA - São Paulo/SP<br>
 **Período:** Agosto/2020 - Atualmente <br>
-**Cargo:** Analista PHP Pleno
+**Cargo:** Analista de Desenvolvimento PHP Pleno
+**Descrição:** Terceirizado na ValidHub de Brasília/DF atuando com desenvolvimento de novos sistemas e manutenção de sistemas já existentes no mercado com Laravel Framework.
 
-### 
+### Tecnologias e Linguagens
 
-
-<!--
-**huriellopes/huriellopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React.Js
+- React Native
+- Node.Js
+- Express
+- Typeorm
+- Sequelize
+- Javascript
+- PHP
+- Laravel Framework
+- Joomla CMS
