@@ -9,7 +9,7 @@
 
 ## 👔 Experiência Profissional
 
-**Empresa:** Valid Hub Consultoria em Tecnologia e Tratamento de Dados S.A<br>
+**Empresa:** Valid Hub Consultoria em Tecnologia e Tratamento de Dados S.A - Brasília/DF<br>
 **Período:** Outubro/2020 - Atualmente <br>
 **Cargo:** Analista de Desenvolvimento de Sistemas <br>
 **Descrição:** 
