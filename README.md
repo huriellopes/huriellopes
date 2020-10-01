@@ -9,17 +9,24 @@
 
 ## 👔 Experiência Profissional
 
-**Empresa:** MAZZATECH SERVIÇOS E CONSULTORIA
-EM INFORMÁTICA - São Paulo/SP<br>
-**Período:** Agosto/2020 - Atualmente <br>
-**Cargo:** Analista de Desenvolvimento PHP Pleno <br>
-**Descrição:** Terceirizado na ValidHub de Brasília/DF atuando com desenvolvimento de novos sistemas e manutenção de sistemas já existentes no mercado com Laravel Framework.
+**Empresa:** Valid Hub Consultoria em Tecnologia e Tratamento de Dados S.A<br>
+**Período:** Outubro/2020 - Atualmente <br>
+**Cargo:** Analista de Desenvolvimento de Sistemas <br>
+**Descrição:** 
+  - Desenvolvimento de novas funcionalidades e manutenção nos sistemas existentes
+  - Criação de SQL's de criação, consulta, inserção e alteração
+  - Prezando pelo padrão de projetos, segurança
+
+  Tecnologias Utilizadas: Laravel Framework, Bootstrap, JQuery, GIT, Docker
 
 ## Tecnologias e Linguagens
 
 - React.Js
 - React Native
 - Node.Js
+- Vue.Js
+- Next.Js
+- Adonis.Js
 - Express
 - Typeorm
 - Sequelize
