@@ -5,19 +5,17 @@
 
 ## 💻 Resumo
 
-> Me chamo Huriel C. Lopes, possuo aproximadamente 4 anos de experiência na área de desenvolvimento com a linguagem PHP usando o Laravel Framework e Joomla CMS atualmente, entuasiasta no mundo do javascript com as tecnologias Node.Js, React.Js e React Native!
+> Me chamo Huriel C. Lopes, possuo aproximadamente 5 anos de experiência na área de desenvolvimento com a linguagem PHP usando o Laravel Framework e Joomla CMS atualmente, entuasiasta no mundo do javascript com as tecnologias Node.Js, React.Js e React Native!
 
 ## 👔 Experiência Profissional
 
-**Empresa:** Valid Hub Consultoria em Tecnologia e Tratamento de Dados S.A - Brasília/DF<br>
-**Período:** Outubro/2020 - Junho/2021 <br>
-**Cargo:** Analista de Desenvolvimento de Sistemas <br>
+**Empresa:** CI&T Software S/A<br>
+**Período:** Julho/2021 - Atualmente <br>
+**Cargo:** Engenheiro de Software Pleno <br>
 **Descrição:** 
-  - Desenvolvimento de novas funcionalidades e manutenção nos sistemas existentes
-  - Criação de SQL's de criação, consulta, inserção e alteração
-  - Prezando pelo padrão de projetos, segurança
+  - Contribuição com a comunidade Drupal.org
 
-  Tecnologias Utilizadas: Laravel Framework, Bootstrap, JQuery, GIT, Docker
+  Tecnologias Utilizadas: Lando, Docker, Drupal, jquery
 
 ## Tecnologias e Linguagens
 
@@ -34,3 +32,5 @@
 - PHP
 - Laravel Framework
 - Joomla CMS
+- Drupal
+- Docker
