@@ -9,13 +9,13 @@
 
 ## 👔 Experiência Profissional
 
-**Empresa:** CI&T Software S/A<br>
-**Período:** Julho/2021 - Atualmente <br>
-**Cargo:** Engenheiro de Software Pleno <br>
+**Empresa:** Feegow Technologies Informatica S.A<br>
+**Período:** Abril/2022 - Atualmente <br>
+**Cargo:** Desenvolvedor Pleno <br>
 **Descrição:** 
-  - Contribuição com a comunidade Drupal.org
+  - Manutenção e sustentação na Api e melhorias
 
-  Tecnologias Utilizadas: Lando, Docker, Drupal, jquery
+  Tecnologias Utilizadas: Laravel, MySQL
 
 ## Tecnologias e Linguagens
 
@@ -32,5 +32,4 @@
 - PHP
 - Laravel Framework
 - Joomla CMS
-- Drupal
 - Docker
