@@ -5,17 +5,17 @@
 
 ## 💻 Resumo
 
-> Me chamo Huriel C. Lopes, possuo aproximadamente 5 anos de experiência na área de desenvolvimento com a linguagem PHP usando o Laravel Framework e Joomla CMS atualmente, entuasiasta no mundo do javascript com as tecnologias Node.Js, React.Js e React Native!
+> Me chamo Huriel C. Lopes, possuo aproximadamente 6 anos de experiência na área de desenvolvimento com a linguagem PHP usando o Laravel Framework atualmente, entuasiasta no mundo do javascript com as tecnologias Node.Js, React.Js e React Native!
 
 ## 👔 Experiência Profissional
 
-**Empresa:** Feegow Technologies Informatica S.A<br>
-**Período:** Abril/2022 - Atualmente <br>
-**Cargo:** Desenvolvedor Pleno <br>
+**Empresa:** Liberty Health Tech<br>
+**Período:** Jan/2023 - Atualmente <br>
+**Cargo:** Analista PHP <br>
 **Descrição:** 
-  - Manutenção e sustentação na Api e melhorias
+  - Manutenção e sustentação no sistemas
 
-  Tecnologias Utilizadas: Laravel, MySQL
+  Tecnologias Utilizadas: Laravel, PostgreSQL
 
 ## Tecnologias e Linguagens
 
