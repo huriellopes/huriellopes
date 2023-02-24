@@ -14,9 +14,12 @@
 **Cargo:** Analista PHP <br>
 **Descrição:** 
   - Alocado no Hospital Univesitário de Brasília
+  - Desenvolvimento de novos projetos para o HUB
   - Manutenção e sustentação no sistemas
+  - Responsável por deploy em produção
+  - Responsável pelo Code Review das demandas da equipe
 
-  Tecnologias Utilizadas: Laravel, PostgreSQL
+  Tecnologias Utilizadas: Laravel, PostgreSQL, Docker
 
 ## Tecnologias e Linguagens
 
