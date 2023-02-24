@@ -11,12 +11,12 @@
 
 **Empresa:** Liberty Health Tech<br>
 **Período:** Jan/2023 - Atualmente <br>
-**Cargo:** Analista PHP <br>
+**Cargo:** Analista PHP Pleno <br>
 **Descrição:** 
   - Alocado no Hospital Univesitário de Brasília
   - Desenvolvimento de novos projetos para o HUB
   - Manutenção e sustentação no sistemas
-  - Responsável por deploy em produção
+  - Responsável pelo deploy em produção
   - Responsável pelo Code Review das demandas da equipe
 
   Tecnologias Utilizadas: Laravel, PostgreSQL, Docker
