@@ -9,17 +9,13 @@
 
 ## 👔 Experiência Profissional
 
-**Empresa:** Liberty Health Tech<br>
-**Período:** Jan/2023 - Atualmente <br>
-**Cargo:** Analista PHP Pleno <br>
+**Empresa:** Benfeitoria<br>
+**Período:** Jun/2023 - Atualmente <br>
+**Cargo:** Desenvolvedor PHP <br>
 **Descrição:** 
-  - Alocado no Hospital Univesitário de Brasília
-  - Desenvolvimento de novos projetos para o HUB
-  - Manutenção e sustentação no sistemas
-  - Responsável pelo deploy em produção
-  - Responsável pelo Code Review das demandas da equipe
+  - Suporte e sustenção nos sistemas existes
 
-  Tecnologias Utilizadas: Laravel, PostgreSQL, Docker
+  Tecnologias Utilizadas: Laravel, MySQL, Docker, Vue
 
 ## Tecnologias e Linguagens
 
